@@ -19,7 +19,7 @@
   <body>
     <div class="container">
       <section>
-        <h3>DATA CUSTOMER</h3>
+        <h3>LAPORAN CUSTOMER</h3>
         <table class="table">
           <thead>
             <tr>
@@ -57,7 +57,7 @@
       <br>
       <br>
       <section class="my-5">
-        <h3>DATA PRODUKSI</h3>
+        <h3>LAPORAN PRODUKSI</h3>
         <table class="table">
           <thead>
             <tr>
@@ -105,7 +105,7 @@
       <br>
       <br>
       <section class="my-5">
-        <h3>DATA PRODUK</h3>
+        <h3>LAPORAN PRODUK</h3>
         <table class="table">
           <thead>
             <tr>
